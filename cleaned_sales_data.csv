@@ -1,0 +1,5 @@
+Order_ID,Customer,Age,City,Sales,Age_Group
+101,John,25.0,New York,500,Young
+102,Sarah,28.25,Chicago,700,Young
+103,Mike,30.0,New York,500,Adult
+104,Emma,28.0,Unknown,900,Young
